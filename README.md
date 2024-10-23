@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rushaan Chawla
-- 👀 I’m interested in Data Science and Python
-- 🌱 I’m currently learning Machine Learning in python
 - 💞️ I’m looking to collaborate on projects that will help me learn more and grow
 - 📫 How to reach me : rushaan.chawla@gmail.com
 
